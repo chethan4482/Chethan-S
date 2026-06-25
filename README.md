@@ -1,20 +1,23 @@
-# Real Mart Sales Analysis
+# Hi, I'm Chethan S 👋
 
-## Project Overview
-This project analyzes retail sales data using Power BI.
+## About Me
 
-## Tools Used
+🎓 Final Year EEE Student (2026)
+
+📊 Aspiring Data Analyst
+
+💻 Skills:
+- SQL
+- MySQL
 - Power BI
+- Python
 - Excel
 
-## Features
-- KPI Dashboard
-- Sales Trend Analysis
-- City-wise Sales Analysis
-- Interactive Filters
+🚀 Projects:
+- Real Mart Sales Analysis
+- Grama-Bazaar Price Arbitrage Engine
 
-## Skills Demonstrated
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
-- Business Analytics
+📍 Bengaluru, India
+
+📧 Email:
+chethanchethan4482@gmail.com
