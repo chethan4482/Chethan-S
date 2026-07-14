@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Final Year EEE Student (2026)
+🎓 Electrical and Electronics Engineering (2026)
 
 📊 Aspiring Data Analyst
 
